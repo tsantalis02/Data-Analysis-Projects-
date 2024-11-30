@@ -9,7 +9,7 @@ It is when an existing customer, user, subscriber, or any kind of return client 
     <li> Non-Contractual Churn : When a customer is not under a contract for a service and decides to cancel the service e.g. Consumer Loyalty in retail stores. </li>
     <li> Involuntary Churn : When a churn occurs without any request of the customer e.g. Credit card expiration. </li>
 </ul>
-## Reasons for Voluntary Churn
+<b>Reasons for Voluntary Churn</b>
 <ul>
     <li> Lack of usage </li>
     <li> Poor service </li>
